@@ -1,4 +1,4 @@
-package rats.projects.ohlone_map
+package frontend
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image

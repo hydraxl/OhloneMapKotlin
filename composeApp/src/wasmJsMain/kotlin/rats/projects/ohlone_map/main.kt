@@ -1,5 +1,6 @@
 package rats.projects.ohlone_map
 
+import frontend.App
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.ComposeViewport
 import kotlinx.browser.document

@@ -1,5 +1,6 @@
 package rats.projects.ohlone_map
 
+import frontend.Platform
 import android.os.Build
 
 class AndroidPlatform : Platform {

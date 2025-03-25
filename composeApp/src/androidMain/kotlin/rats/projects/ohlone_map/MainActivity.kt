@@ -1,5 +1,6 @@
 package rats.projects.ohlone_map
 
+import frontend.App
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

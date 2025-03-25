@@ -1,4 +1,4 @@
-package rats.projects.ohlone_map
+package frontend
 
 interface Platform {
     val name: String

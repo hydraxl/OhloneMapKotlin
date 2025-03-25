@@ -1,4 +1,4 @@
-package src.commonMain
+package backend
 
 data class Location(
     val id: String,

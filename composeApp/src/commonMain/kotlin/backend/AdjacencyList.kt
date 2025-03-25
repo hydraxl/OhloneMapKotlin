@@ -1,4 +1,4 @@
-package src.commonMain
+package backend
 
 // supporting classes for json handling
 data class Connection(

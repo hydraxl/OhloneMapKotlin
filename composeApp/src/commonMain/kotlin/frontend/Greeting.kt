@@ -1,4 +1,4 @@
-package rats.projects.ohlone_map
+package frontend
 
 class Greeting {
     private val platform = getPlatform()

@@ -1,5 +1,7 @@
 package rats.projects.ohlone_map
 
+import frontend.Platform
+
 class WasmPlatform: Platform {
     override val name: String = "Web with Kotlin/Wasm"
 }
