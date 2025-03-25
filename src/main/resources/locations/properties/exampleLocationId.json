@@ -1,0 +1,7 @@
+{
+  "id": "exampleLocationId",
+  "locationType": "exampleType",
+  "sectors": [
+    "exampleSectorId1"
+  ]
+}

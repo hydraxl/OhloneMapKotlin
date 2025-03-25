@@ -1,0 +1,8 @@
+{
+  "id": "examplePathId",
+  "locations": [
+    "exampleLocationId1",
+    "exampleLocationId2"
+  ],
+  "isBoundary": "false"
+}

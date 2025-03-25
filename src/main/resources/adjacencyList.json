@@ -1,0 +1,56 @@
+{
+  "graph": [
+    {
+      "locationId": "exampleLocation1",
+      "connections": [
+        {
+          "connectionId": "exampleLocation2",
+          "distance": "exampleDistance12"
+        },
+        {
+          "connectionId": "exampleLocation3",
+          "distance": "exampleDistance13"
+        }
+      ]
+    },
+    {
+      "locationId": "exampleLocation2",
+      "connections": [
+        {
+          "connectionId": "exampleLocation1",
+          "distance": "exampleDistance12"
+        },
+        {
+          "connectionId": "exampleLocation3",
+          "distance": "exampleDistance23"
+        }
+      ]
+    },
+    {
+      "locationId": "exampleLocation3",
+      "connections": [
+        {
+          "connectionId": "exampleLocation1",
+          "distance": "exampleDistance13"
+        },
+        {
+          "connectionId": "exampleLocation2",
+          "distance": "exampleDistance23"
+        },
+        {
+          "connectionId": "exampleLocation4",
+          "distance": "exampleDistance34"
+        }
+      ]
+    },
+    {
+      "locationId": "exampleLocation4",
+      "connections": [
+        {
+          "connectionId": "exampleLocation3",
+          "distance": "exampleDistance34"
+        }
+      ]
+    }
+  ]
+}
